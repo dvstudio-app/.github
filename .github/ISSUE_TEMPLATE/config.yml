@@ -3,6 +3,3 @@ contact_links:
   - name: Support (logs, license keys, account questions)
     url: https://voicewink.app
     about: Email support@dvstudio.app, or use About → Report a problem in the app. Anything that needs a log file or your license key goes there, never into a public issue.
-  - name: Security vulnerability
-    url: https://voicewink.app/.well-known/security.txt
-    about: Report privately to security@dvstudio.app.
